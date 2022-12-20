@@ -1,6 +1,7 @@
 ### Hey there, I'm Aravind! 👋
 
-https://github.com/Iaml3gend/iaml3gend/blob/main/123.gif
+
+![](https://github.com/Iaml3gend/iaml3gend/blob/main/123.gif)
 <!--
 
 Here are some ideas to get you started:
