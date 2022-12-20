@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/Iaml3gend/iaml3gend/blob/main/123.gif" alt="drawing" width="400" align="right"/>
+<img src="https://github.com/Iaml3gend/iaml3gend/blob/main/123.gif" alt="drawing" width="400" />
 
 <!-- ![](https://github.com/Iaml3gend/iaml3gend/blob/main/123.gif) -->
 
