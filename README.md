@@ -1,12 +1,10 @@
 <img src="https://github.com/Iaml3gend/iaml3gend/blob/main/123.gif" alt="drawing" width="350" align="right" />
 
 ### Hey there, I'm Aravind! 👋
-<hr style="height:0.5px;border:none;color:#333;background-color:#333;" />
-hr {
-    height: 0px;
+<hr style="height:height: 0px;
     border: none;
-    border-top: 1px solid black;
-}
+    border-top: 1px solid black;" />
+
 
 
 
