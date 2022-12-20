@@ -2,8 +2,7 @@
 
 
 ![](https://github.com/Iaml3gend/iaml3gend/blob/main/123.gif)
-img[alt=drawing] { width: 200px; }
-<img src="https://github.com/Iaml3gend/iaml3gend/blob/main/123.gif" alt="drawing" width="20"/>
+<img src="https://github.com/Iaml3gend/iaml3gend/blob/main/123.gif" alt="drawing" width="2000"/>
 <!--
 
 Here are some ideas to get you started:
