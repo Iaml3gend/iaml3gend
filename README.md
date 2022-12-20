@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Aravind 👋
 
 <!--
 
@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Software Development Engineer
+I'm a Software Development Engineer.         
 
 Currently working as a Data Engineer at Nisum.
-
 
 
 I love nature and the road trips that take me closer to it, always ready for another ⛰ 🌏
