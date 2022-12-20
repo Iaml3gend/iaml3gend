@@ -2,6 +2,11 @@
 
 ### Hey there, I'm Aravind! 👋
 <hr style="height:0.5px;border:none;color:#333;background-color:#333;" />
+hr {
+    height: 0px;
+    border: none;
+    border-top: 1px solid black;
+}
 
 
 
