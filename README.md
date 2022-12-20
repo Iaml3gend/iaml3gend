@@ -1,9 +1,10 @@
-### Hey there, I'm Aravind! 👋
-<h2 style=center>hi</h2>
+                                                                 ### Hey there, I'm Aravind! 👋
+
+
 
 
 <!-- ![](https://github.com/Iaml3gend/iaml3gend/blob/main/123.gif) -->
-<img src="https://github.com/Iaml3gend/iaml3gend/blob/main/123.gif" alt="drawing" width="500"/>
+<img src="https://github.com/Iaml3gend/iaml3gend/blob/main/123.gif" alt="drawing" width="400"/>
 <!--
 
 Here are some ideas to get you started:
