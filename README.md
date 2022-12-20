@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/Iaml3gend/iaml3gend/blob/main/123.gif" alt="drawing" width="500" align="right"/>
+<img src="https://github.com/Iaml3gend/iaml3gend/blob/main/123.gif" alt="drawing" width="400" align="right"/>
 
 <!-- ![](https://github.com/Iaml3gend/iaml3gend/blob/main/123.gif) -->
 
@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 I'm a Software Development Engineer.         
 
-<img src="https://github.com/Iaml3gend/iaml3gend/blob/main/123.gif" alt="drawing" width="200" align="right"/>
 - 🔭 I’m Currently working as a Data Engineer at [Nisum](https://www.nisum.com/). 
 - 🌱 I’ve worked in Frontend (Angular).
 
