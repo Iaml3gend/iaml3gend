@@ -1,8 +1,8 @@
 ### Hey there, I'm Aravind! 👋
 
 
-![](https://github.com/Iaml3gend/iaml3gend/blob/main/123.gif)
-<img src="https://github.com/Iaml3gend/iaml3gend/blob/main/123.gif" alt="drawing" width="2000"/>
+<!-- ![](https://github.com/Iaml3gend/iaml3gend/blob/main/123.gif) -->
+<img src="https://github.com/Iaml3gend/iaml3gend/blob/main/123.gif" alt="drawing" width="500"/>
 <!--
 
 Here are some ideas to get you started:
