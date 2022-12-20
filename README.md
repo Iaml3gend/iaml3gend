@@ -27,4 +27,4 @@ I'm a Software Development Engineer.
 
 I love nature and the road trips that take me closer to it, always ready for another ⛰ 🌏
 
-I write my thoughts ###### here https://aravindvardhan.me/
+I write my thoughts here https://aravindvardhan.me/
