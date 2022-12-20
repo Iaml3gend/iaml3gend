@@ -1,4 +1,4 @@
-### Hi there, I'm Aravind 👋
+### Hey there, I'm Aravind 👋
 
 <!--
 
