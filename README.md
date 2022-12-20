@@ -4,7 +4,6 @@
 
 
 <!-- ![](https://github.com/Iaml3gend/iaml3gend/blob/main/123.gif) -->
-<img src="https://github.com/Iaml3gend/iaml3gend/blob/main/123.gif" alt="drawing" width="200"/>
 
 <!--
 
@@ -21,7 +20,8 @@ Here are some ideas to get you started:
 
 I'm a Software Development Engineer.         
 
-- 🔭 I’m Currently working as a Data Engineer at [Nisum](https://www.nisum.com/).
+<img src="https://github.com/Iaml3gend/iaml3gend/blob/main/123.gif" alt="drawing" width="200" align="right"/>
+- 🔭 I’m Currently working as a Data Engineer at [Nisum](https://www.nisum.com/). 
 - 🌱 I’ve worked in Frontend (Angular).
 
 I love nature and the road trips that take me closer to it, always ready for another ⛰ 🌏
