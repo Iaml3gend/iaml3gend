@@ -1,8 +1,7 @@
 <img src="https://github.com/Iaml3gend/iaml3gend/blob/main/123.gif" alt="drawing" width="350" align="right" />
 
 ### Hey there, I'm Aravind! 👋
-<hr style="border:2px solid gray">
-#
+<hr style="border:10px solid gray">
 
 
 
