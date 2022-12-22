@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 I'm a Software Development Engineer.         
 
 - 🔭 I’m Currently working as a Data Engineer at [Nisum](https://www.nisum.com/). 
-- 🌱 I’ve worked in Frontend (Angular).
+- 🌱 I’ve worked in Frontend (Angular) and Backend (Springboot & Django).
 
 I love nature and the road trips that take me closer to it, always ready for another ⛰ 🌏
 
