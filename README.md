@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Software Development Engineer.         
+I'm a Data Engineer.         
 
 - 🔭 I’m Currently working as a Data Engineer at [Gep Worldwide](https://www.gep.com/). 
 
